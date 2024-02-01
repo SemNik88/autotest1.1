@@ -1,3 +1,5 @@
-AutoTest # 1
 
-![main](https://github.com/SemNik88/autotest1.1/assets/142649558/a5dab1eb-bf1f-4e04-af39-5a72251798a8)
+AutoTest # 1 (JUnit 4)
+
+![junit4](https://github.com/SemNik88/autotest1.1/assets/142649558/5f19de5d-6920-496e-a07c-fa9099889019)
+
